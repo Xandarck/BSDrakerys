@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="DrakerysV1" indexUrl="http://jefd.pagesperso-orange.fr/Drakerys/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Drakerys.gstz" dataType="gamesystem" dataId="fe0c-86e4-a772-e6cb" dataName="Drakerys" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Ashral.catz" dataType="catalogue" dataId="1729-4609-07f5-d0df" dataName="Ashral" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Avaren.catz" dataType="catalogue" dataId="f972-b603-b6d2-81b7" dataName="Avaren" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="Irosia.catz" dataType="catalogue" dataId="26c8-a861-cbf1-ea31" dataName="Irosia" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Mercenaires.catz" dataType="catalogue" dataId="6881-7f5e-187c-e860" dataName="Mercenaires" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Aurium.catz" dataType="catalogue" dataId="7f3f-0ea0-cab4-51da" dataName="Aurium" dataBattleScribeVersion="2.01" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
